@@ -1,0 +1,13 @@
+int 'int'        [StartOfLine]  Loc=<.\samples1\ilegal_input.c:3:1>
+identifier 'main'        [LeadingSpace] Loc=<.\samples1\ilegal_input.c:3:5>        
+l_paren '('             Loc=<.\samples1\ilegal_input.c:3:9>
+r_paren ')'             Loc=<.\samples1\ilegal_input.c:3:10>
+l_brace '{'      [LeadingSpace] Loc=<.\samples1\ilegal_input.c:3:12>
+int 'int'        [StartOfLine] [LeadingSpace]   Loc=<.\samples1\ilegal_input.c:4:2>
+identifier 'n'   [LeadingSpace] Loc=<.\samples1\ilegal_input.c:4:6>
+semi ';'                Loc=<.\samples1\ilegal_input.c:4:7>
+unknown '"asdfsdf'       [StartOfLine] [LeadingSpace]   Loc=<.\samples1\ilegal_input.c:5:2>
+amp '&'  [StartOfLine] [LeadingSpace]   Loc=<.\samples1\ilegal_input.c:6:2>
+identifier '$'   [StartOfLine] [LeadingSpace]   Loc=<.\samples1\ilegal_input.c:7:2>
+r_brace '}'      [StartOfLine]  Loc=<.\samples1\ilegal_input.c:9:1>
+eof ''          Loc=<.\samples1\ilegal_input.c:9:2>

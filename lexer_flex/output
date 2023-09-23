@@ -1,0 +1,24 @@
+Line:3	Token(Keyword,int)
+Line:3	Token(Identifier,main)
+Line:3	Token(Symbol,()
+Line:3	Token(Symbol,))
+Line:3	Token(Symbol,{)
+Line:4	Token(Keyword,int)
+Line:4	Token(Identifier,n)
+Line:4	Token(Symbol,;)
+Line:5	Token(ERROR,")
+Line:5	Token(Identifier,asdfsdf)
+Line:6	Token(Operator,&)
+Line:7	Token(ERROR,$)
+Line:9	Token(Symbol,})
+
+Total line:10
+Total Text Character:51
+Total Identifier:3
+Total Keyword:2
+Total Integer:0
+Total Real Number:0
+Total Character:0
+Total String:0
+Total Operator:1
+Total Symbol:5
